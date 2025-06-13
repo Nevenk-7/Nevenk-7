@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center" style="color:#f25dd0;">✨ ¡Hola! Soy <span style="color:#58d5ff;">Luis Vázquez</span> (@Nevenk-7)</h1>
 
 <p align="center">
-  <img src="https://github.com/Nevenk-7/Nevenk-7/blob/main/avatar.png" width="200" alt="Avatar" style="border-radius:50%;">
+  <img src="https://github.com/Nevenk-7/Nevenk-7/blob/main/avatar.png.jpg" width="200" alt="Avatar" style="border-radius:50%;">
 </p>
 
 <p align="center">
